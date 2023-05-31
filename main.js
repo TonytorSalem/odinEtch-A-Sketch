@@ -1,0 +1,6 @@
+const container = document.querySelector('.container')
+const Black = document.createElement('button')
+const Random = document.createElement('button')
+const Eraser = document.createElement('button')
+const Gray = document.createElement('button')
+const btnSize = document.createElement('button')
