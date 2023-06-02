@@ -87,6 +87,12 @@ function clearColor() {
     clear.addEventListener('click', function () {
        
             reSet()
+            createDivs(16,16);
+                grayColor();
+                rgbColors();
+                blackColor();
+                eraseColor();
+                clearColor()
         
          
     })
